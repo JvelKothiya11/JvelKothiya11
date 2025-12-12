@@ -1,6 +1,6 @@
 # Jvel Kothiya
 
-**`Software developer/Frontend developer/AI/ML Enthusiast`**
+**`Software developer | Frontend developer | AI/ML Enthusiast`**
 
 I am Jvel Kothiya, a Computer Science and Engineering undergraduate at SVNIT, Surat. I have a strong interest in software development and problem solving. I focus on building reliable and efficient digital solutions. I work with clarity, discipline, and attention to detail. I constantly try to improve my technical skills. I enjoy learning new concepts and exploring emerging technologies. I approach challenges with structured thinking. I like exploring UI ideas and technical content. I stay updated with industry trends. I aim to grow as a capable software engineer. I want to contribute to practical and impactful solutions.
 
